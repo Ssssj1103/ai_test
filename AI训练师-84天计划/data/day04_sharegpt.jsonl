@@ -1,0 +1,4 @@
+{"conversations": [{"from": "human", "value": "快递一般几天到？"}, {"from": "gpt", "value": "默认快递 3-5 天送达，偏远地区 5-7 天。"}]}
+{"conversations": [{"from": "human", "value": "我买的手机壳到了，但是颜色不对"}, {"from": "gpt", "value": "抱歉给您带来不便。请提供订单号，我帮您登记换货。"}, {"from": "human", "value": "订单号 20261105001"}, {"from": "gpt", "value": "已登记换货申请，1 个工作日内会有专员联系您确认新颜色。"}]}
+{"conversations": [{"from": "human", "value": "把下面的客服回复改得更委婉：\n『这不是我们的问题，是你自己填错地址了。』"}, {"from": "gpt", "value": "非常抱歉，检测到收货地址与实际送达地址不一致。麻烦您核对一下下单时填写的地址，我们协助您联系快递网点处理。"}]}
+{"conversations": [{"from": "human", "value": "判断这条用户消息的意图（投诉/咨询/闲聊）：\n『快递三天了还没发货，客服也不回消息』"}, {"from": "gpt", "value": "投诉"}]}
